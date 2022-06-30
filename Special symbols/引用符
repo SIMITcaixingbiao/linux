@@ -1,4 +1,6 @@
-read
-===
-
-从键盘读取变量值
+$
+引用变量
+实例
+sg=‘smit’
+echo $sg
+smit
