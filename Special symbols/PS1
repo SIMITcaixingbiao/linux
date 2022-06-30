@@ -1,0 +1,10 @@
+PS1
+第一提示符
+================
+[\u@\h \w]\$
+================
+u   user
+h   hostname
+w   working list
+$   root用户
+#   普通用户
