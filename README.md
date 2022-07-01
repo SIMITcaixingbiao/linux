@@ -4,5 +4,5 @@
 ## 来自@jaywcjlove大神的linux-command库中的命令查询网站
  
 
-linux.devonline.net.html，linux.ftqq.com，linux.gaomeluo.com，atoolbox.net，xiaoshanseo.com，262235.xyz，cmsblogs.cn，loquy.cn，bqrdh.com，buyao.vip，hezhiqiang.gitbook.io，linux.mmoke.com, luojianjun.cn, man.zch.ooo
+linux.devonline.net，linux.ftqq.com，linux.gaomeluo.com，atoolbox.net，xiaoshanseo.com，262235.xyz，cmsblogs.cn，loquy.cn，bqrdh.com，buyao.vip，hezhiqiang.gitbook.io，linux.mmoke.com, luojianjun.cn, man.zch.ooo
 
